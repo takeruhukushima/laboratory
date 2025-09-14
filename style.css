@@ -53,7 +53,7 @@ dark-blue {
 	padding: 0;
 }
 .navbar .nav-item a {
-	color: #090F53;
+	color: #e2e4ff;
 	text-transform: uppercase;
 	font-weight: 600;
 	font-size: 13px;
@@ -122,8 +122,9 @@ dark-blue {
 .banner {
 	/* background: #7a60ff; */
 	/* background: linear-gradient(to left, #7a60ff, #cd9ffa); */
-	background: url(images/background.jpg);
+	background: url(images/black_background.jpeg);
 	background-size: cover;
+	background-position: 80% 30%;
 	padding:100px 0px;
 	position:relative;
 }
