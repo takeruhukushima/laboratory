@@ -4,6 +4,7 @@ This is the my lab page source code.
 This was created based on Agora's landing page.
 I plan to change the design as I believe it may be considered rude.
 The design will continue to change based on my mood going forward.
+If there is a license violation, please let me know.
 
 # Development Notes
 
