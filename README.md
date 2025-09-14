@@ -1,6 +1,6 @@
-# Agora landing page
+# my lab page
 
-This is the landing page source code.
+This is the my lab page source code.
 
 ## License
 
